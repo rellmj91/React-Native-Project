@@ -1,4 +1,4 @@
-:construction: #React Native Project :construction:
+# React Native Project
 
 *Introduction* - 
 ***
