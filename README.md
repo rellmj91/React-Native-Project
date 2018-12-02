@@ -1,5 +1,7 @@
-# "React-Native-Project" 
+# React Native Project
 
 *Introduction* - 
+***
 *WalkThrough* -
+***
 *Updates* 
