@@ -1,5 +1,7 @@
-# "React-Native-Project" 
+:construction: #React Native Project :construction:
 
 *Introduction* - 
+***
 *WalkThrough* -
+***
 *Updates* 
